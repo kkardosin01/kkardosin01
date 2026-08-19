@@ -5,10 +5,10 @@
 </h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN/">
+  <a href="https://www.linkedin.com/in/cardosoopedroo/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:SEUEMAIL@gmail.com">
+  <a href="mailto:alvespedro0770@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://github.com/kkardosin01">
@@ -27,7 +27,7 @@ const pedro = {
     idade: 19,
     localização: "Florianópolis, Santa Catarina 🇧🇷",
     formação: "Análise e Desenvolvimento de Sistemas — último semestre",
-    empresa: "No Bug Tecnologia",
+    empresa: "No Bug Tecnologia 🥇",
     programa: "Embaixador Estudantil Google 🎓",
     stack: ["Python", "JavaScript", "Django", "SQL", "IA"],
     idiomas: ["Português", "Inglês fluente 🇺🇸"],
