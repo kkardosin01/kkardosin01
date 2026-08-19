@@ -75,8 +75,8 @@ const pedro = {
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kkardosin01&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkardosin01&layout=compact&langs_count=9&theme=tokyonight&locale=pt-br&custom_title=Tecnologias&hide_border=true" alt="Top Langs" height="165"/>
+  <img src="https://github-readme-stats-alpha-one-91.vercel.app/api?username=kkardosin01&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats-alpha-one-91.vercel.app/api/top-langs/?username=kkardosin01&layout=compact&langs_count=9&theme=tokyonight&locale=pt-br&custom_title=Tecnologias&hide_border=true" alt="Top Langs" height="165"/>
 </p>
 
 <p align="center">
