@@ -24,7 +24,7 @@ Desenvolvedor **Full Stack** em formação, atuando na **No Bug Tecnologia** e c
 
 ```javascript
 const pedro = {
-    idade: 19,
+    idade: 20,
     localização: "Florianópolis, Santa Catarina 🇧🇷",
     formação: "Análise e Desenvolvimento de Sistemas — último semestre",
     empresa: "No Bug Tecnologia 🥇",
