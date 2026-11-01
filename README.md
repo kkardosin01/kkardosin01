@@ -20,14 +20,14 @@
 
 ## 🚀 Sobre Mim
 
-Desenvolvedor **Full Stack** em formação, atuando na **No Bug Tecnologia** e concluindo a graduação em **Análise e Desenvolvimento de Sistemas**. Sou **Embaixador Estudantil do Google**, conectando a comunidade acadêmica ao ecossistema de tecnologia. Meu foco está em **Python, JavaScript e IA**, construindo soluções que geram valor real ao negócio.
+Desenvolvedor **Full Stack** em formação, com experiência recente como estagiário de tecnologia na **No Bug Tecnologia** (ago–out/2026), e concluindo a graduação em **Análise e Desenvolvimento de Sistemas**. Sou **Embaixador Estudantil do Google**, conectando a comunidade acadêmica ao ecossistema de tecnologia. Meu foco está em **Python, JavaScript e IA**, construindo soluções que geram valor real ao negócio.
 
 ```javascript
 const pedro = {
     idade: 20,
     localização: "Florianópolis, Santa Catarina 🇧🇷",
     formação: "Análise e Desenvolvimento de Sistemas — último semestre",
-    empresa: "No Bug Tecnologia 🥇",
+    experiência: "Estagiário na No Bug Tecnologia (ago–out/2026)",
     programa: "Embaixador Estudantil Google 🎓",
     stack: ["Python", "JavaScript", "Django", "SQL", "IA"],
     idiomas: ["Português", "Inglês fluente 🇺🇸"],
@@ -35,7 +35,7 @@ const pedro = {
 };
 ```
 
-- 💼 Atual: **Desenvolvedor na No Bug Tecnologia**
+- 💼 Experiência: **Estagiário de Tecnologia na No Bug Tecnologia (ago–out/2026)**
 - 🎓 Formação: **ADS na UniCesusc — último semestre**
 - 🌎 Programa: **Embaixador Estudantil Google**
 - 📚 Estudando: **Python, JavaScript e Inteligência Artificial**
@@ -87,23 +87,13 @@ const pedro = {
 
 ## 💻 Projetos em Destaque
 
-### 📌 FinEz
+### 📌 Clareos
 
-[![Demo](https://img.shields.io/badge/🌐_Ver_Demo-37a779?style=for-the-badge)](https://fin-ez.vercel.app/)
-[![Repo](https://img.shields.io/badge/📂_Repositório-181717?style=for-the-badge&logo=github)](https://github.com/kkardosin01/FinEz)
+[![Site](https://img.shields.io/badge/🌐_Ver_Site-37a779?style=for-the-badge)](https://clareos.com.br)
 
-> Aplicativo de gestão financeira com Open Finance e outras features. Feito pensado na defasagem de educação financeira nas escolas.
+> Auditoria de presença digital para pequenas empresas: o dono responde a perguntas rápidas e recebe uma nota de 0 a 100, com os principais achados e a opção de contratar a implementação das melhorias e de automações. O repositório é privado.
 
-`Python` `Django` `PostgreSQL`
-
-
-## 📈 Atividade Recente
-
-<p align="center">
-  <a href="https://github.com/kkardosin01">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kkardosin01&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
-  </a>
-</p>
+`Next.js` `TypeScript` `Supabase` `Cloudflare`
 
 ---
 
